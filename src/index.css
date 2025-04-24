@@ -1,0 +1,51 @@
+/* Estilos básicos */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    background-color: #2c3e50 !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .navbar-brand {
+    font-weight: 600;
+    font-size: 1.25rem;
+  }
+  
+  .container {
+    padding-top: 2rem;
+  }
+  
+  h1 {
+    color: #2c3e50;
+    margin-bottom: 1.5rem;
+  }
+  
+  .table {
+    margin-top: 1.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.05);
+  }
+  
+  .table thead th {
+    background-color: #2c3e50;
+    color: white;
+    border-bottom: none;
+  }
+  
+  .btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+  }
+  
+  .btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+  }
+  
+  .search-box {
+    max-width: 400px;
+  }
