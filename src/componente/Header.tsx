@@ -38,7 +38,7 @@ const Header: React.FC = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/detalles_ventas">
+              <Link className="nav-link" to="/detalles_venta">
                 <i className="bi bi-cart-check me-1"></i> Detalles de Ventas
               </Link>
             </li>
